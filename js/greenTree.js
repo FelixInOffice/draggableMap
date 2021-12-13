@@ -525,7 +525,7 @@ for (var i = 0; i < trees.length; i++) {
 
     var d = document.createElement('div');
     let img = document.createElement("img");
-    img.setAttribute("src", "./img/tree.svg");
+    img.setAttribute("src", "./img/tree_new.png");
     d.id = 'treed' + i;
     d.className += 'htmlMapTree';
     d.style.marginLeft = x + 'px';
